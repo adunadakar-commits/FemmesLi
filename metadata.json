@@ -1,0 +1,7 @@
+{
+  "name": "Femmes de la Ligue - Portail d'Empouvoirement",
+  "description": "Un portail dédié à la femme musulmane compétente et travailleuse, loin des clichés. Intègre une assistance vocale intelligente pour l'orientation et le soutien.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
